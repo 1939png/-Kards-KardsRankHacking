@@ -12,11 +12,11 @@ isNewACount = False
 matchesID=()
 Ownside=()
 #填写替换你的玩家ID
-playerID="1349"
+playerID="少羽浮木似了"
 #填写替换你的卡组ID
 deckID="%%34|6B6C6Y7NaXimjjmgtGtl;qC;6x7a7H7ljN;5Zqvt9"
 #填写替换你的Cookie
-cookie="[少羽浮木似了]"
+cookie="[1349]"
 urllib3.disable_warnings()
 
 def keep_alive(keepAliveUrl,headers):
@@ -416,3 +416,4 @@ def main():
 if __name__ == "__main__":
 
     main()
+
